@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestGitDemo</string>
+    <string name="title_activity_splan">SplanActivity</string>
+</resources>
